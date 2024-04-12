@@ -27,4 +27,4 @@ highly. The program generates HTML and CSS to be ran and displayed in a browser.
 
 -Credit
     Credits to Duke University for laying the framework for necessary classes and 
-    methods.
+    methods.   
