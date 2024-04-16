@@ -15,7 +15,8 @@ highly. The program generates HTML and CSS to be ran and displayed in a browser.
     although the lectures were only referenced if I failed to replicate the desired 
     results on my own. The only classes that were included in the final submission to
     Duke's website were RecommendationRunner, FourthRatings, TrueFilter, and 
-    YearAfterFilter as anything else was either unused or supplemented by the website.
+    YearAfterFilter as anything else was either unused or supplemented by the website,
+    so those will be the most clearly documented files.
 
 -How to Run the Program
     Go to https://www.dukelearntoprogram.com/capstone/recommender.php?id=DJ4d6VjO7iWrgC 
